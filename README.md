@@ -1,4 +1,4 @@
-# JAE070
+# JAE-070
 
 **Software Engineering Student · Flutter · AI · Automation**
 
